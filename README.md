@@ -1,4 +1,4 @@
-Hi! Sailor on the ship of MSE.
+Hi! Sailor on the ship of Materials Science And Engineering.
 This repo is a gift from the past sailors to you.
 It contains all the previous year papers for different courses that we could gather for you. Sending our love to future. It was the least we could do for you.
 
